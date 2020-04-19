@@ -1,40 +1,37 @@
 ,City,Country,Latitude,Longitude,Hotel Name
-37,brae,GB,60.4,-1.35,Busta House Hotel
-48,auning,DK,56.43,10.38,Auning Kro
-57,murdochville,CA,48.96,-65.5,Presbytère
-71,bilma,NE,18.69,12.92,
-73,jalingo,NG,8.88,11.37,"Fast Track Hotel, Jalingo"
-75,saskylakh,RU,71.92,114.08,
-76,terenos,BR,-20.44,-54.86,Hotel Renascer
-127,caranguejeira,PT,39.75,-8.71,
-147,flinders,AU,-34.58,150.86,Lakeview Hotel Motel
-155,chernyshevskiy,RU,63.01,112.47,
-165,teguldet,RU,57.31,88.17,Gostinitsa Kedr
-178,rocha,UY,-34.48,-54.33,Beleza Pura B&B
-184,angoche,MZ,-16.23,39.91,HESADA APARTMENTS
-186,iasmos,GR,41.13,25.18,
-213,chifeng,CN,42.27,118.96,Holiday Inn Express Chifeng Hongshan
-230,klaksvik,FO,62.23,-6.59,Hotel Klaksvík
-264,faya,SA,18.39,42.45,
-273,petropavlovsk-kamchatskiy,RU,53.05,158.65,"ООО ""Гостиничный комплекс ""Петропавловск"""
-297,pyapon,MM,16.28,95.68,Aung Naing Thu Motel
-306,tessalit,ML,20.2,1.01,
-312,coquimbo,CL,-29.95,-71.34,Apart Hotel Cabaña
-313,asino,RU,57.0,86.15,Raduga
-315,wadi musa,JO,30.32,35.48,Nomads Hotel Petra
-325,vallenar,CL,-28.57,-70.76,Hotel Solaris
-329,gat,IL,31.61,34.76,Desert Gat
-334,tanout,NE,14.97,8.89,
-336,suileng,CN,47.25,127.08,Xinqi Hotel
-340,bayan,CN,46.08,127.4,Longfucheng Hotel
-370,teknaf,BD,20.86,92.31,Milky Resort
-413,vrani,RO,45.04,21.49,
-417,bara,NG,10.37,10.73,
-435,kurilsk,RU,45.23,147.88,Guest House on Kooperativnaya
-453,beloha,MG,-25.17,45.05,
-455,arlit,NE,18.74,7.39,Hôtel Telwa Bungalow
-481,buenos aires,AR,-34.61,-58.38,Hilton Buenos Aires
-494,yelizovo,RU,53.19,158.38,Yu Hotel
-508,etne,NO,59.66,5.93,Fugl Fønix
-518,zanjan,IR,36.67,48.48,Zanjan Grand Hotel
-537,tahoua,NE,14.89,5.27,HOTEL TARKA
+26,eyemouth,GB,55.87,-2.09,The Home Arms Bed and Breakfast Guest House
+33,roald,NO,62.58,6.13,Vestavind Hytter og Rom AS
+43,hovd,MN,48.01,91.64,Steppe hotel
+49,marsa matruh,EG,31.35,27.25,Beau Site
+50,port elizabeth,ZA,-33.92,25.57,Millbury Guesthouse
+116,baykit,RU,61.67,96.37,
+120,nhulunbuy,AU,-12.23,136.77,Walkabout Lodge & Tavern
+138,ulaangom,MN,49.98,92.07,Baylagod hotel
+142,nanchang,CN,28.68,115.88,Sheraton Nanchang Hotel
+156,laizhou,CN,37.18,119.93,Baidu International Hotel
+166,aykhal,RU,66.0,111.5,
+186,chuy,UY,-33.7,-53.46,Bertelli Chuí Hotel
+193,zharkent,KZ,44.16,80.0,гостиница Satti
+197,saskylakh,RU,71.92,114.08,
+259,diego de almagro,CL,-26.37,-70.05,hotel luna del desierto
+277,jalu,LY,29.03,21.55,Jalu Hotel
+280,ligayan,PH,4.65,119.47,
+342,darhan,MN,49.49,105.92,Buudai Hotel
+362,chadan,RU,51.28,91.58,
+372,raudeberg,NO,61.99,5.14,Ulvesund FYR
+379,yerbogachen,RU,61.28,108.01,
+380,hvide sande,DK,56.0,8.13,Dancamps Holmsland
+385,thaba-tseka,LS,-29.52,28.61,Mohale Oa Masite Hotel
+390,resistencia,AR,-27.46,-58.98,Niyat Urban Hotel
+396,nizhneudinsk,RU,54.91,99.03,"Hotel ""Uda"""
+419,vilyuysk,RU,63.76,121.62,Gostinitsa Viliuisk
+420,tomatlan,MX,19.93,-105.25,Hotel Misión San Miguel
+435,dalby,AU,-27.18,151.27,The Gallery Motor Inn
+436,thisted,DK,56.96,8.69,Thisted Bed and Breakfast
+449,valparaiso,CL,-33.04,-71.63,Hotel Palacio Astoreca
+454,byron bay,AU,-28.65,153.62,Bayhaven Lodge
+466,esna,EG,25.29,32.55,Dahabeya Queen Farida Sailing Boat - Esna/Aswan 5 Nights
+492,kodinsk,RU,58.69,99.18,
+517,pando,UY,-34.72,-55.95,
+538,rocha,UY,-34.48,-54.33,Beleza Pura B&B
+540,victoria point,AU,-27.58,153.3,Cleveland Visitor Villas Motel
